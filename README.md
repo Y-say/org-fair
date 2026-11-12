@@ -1,6 +1,6 @@
 # CICT Org Fair
 
-**Live site:** https://YOUR_GITHUB_USERNAME.github.io/org-fair/
+**Live site:** https://Y-say.github.io/my-strapi-project/
 
 > Replace the URL above after your first successful GitHub Pages deployment.
 
