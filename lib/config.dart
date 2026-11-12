@@ -41,7 +41,7 @@ EventSource createEventSource(http.Client client) {
     'strapi' => StrapiEventSource(client, baseUrl: cmsUrl, token: cmsToken),
     'contentful' => ContentfulEventSource(
       client,
-      spaceId: cmsSpace,
+      spaceId: cmsUrl,
       token: cmsToken,
     ),
     'sanity' => SanityEventSource(
