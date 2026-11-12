@@ -1,0 +1,5 @@
+{
+  "CMS": "strapi",
+  "CMS_URL": "https://your-project.strapiapp.com",
+  "CMS_TOKEN": "your-read-only-api-token-here"
+}
